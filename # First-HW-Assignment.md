@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # First-HW-Assignment
 
 **Ethereum Case Study**
@@ -36,3 +37,8 @@ According to Ethereum's website, once a code is deployed to Ethereum, that code 
 * Decentralized applications (dApps)
 * Smart contracts
 * Other tokens creation (ERC-20 tokens)
+=======
+# First-HW-Assignment
+
+asdf
+>>>>>>> a5350c7b0a28c4ec493e12ee2c0f433b95fc5982
